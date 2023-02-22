@@ -1,0 +1,39 @@
+body{
+    background-image: url('./images/green-paper-layers_1217-3222.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+h1{
+    display: flex;
+    justify-content: flex-start;
+    /* align-content: flex-start; */
+    word-wrap: wrap;
+    /* position: absolute; */
+    margin-top: 5px;
+    color: rgba(0, 0,0, .8);
+
+}
+/* #embed{
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    /* margin: 5em; */
+
+/* }  */
+
+.my{
+    margin: 2em;
+}
+
+
+
+.mytitl{
+    margin-top: 0;
+    position: absolute;
+}
+
+
+#embed{
+    margin-top: 5em;
+}
